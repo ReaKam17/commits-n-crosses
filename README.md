@@ -4,7 +4,7 @@ Commits N Crosses
  Game Board:
 
 	|---|---|---|
-	|   |   |   |
+	| X |   |   |
 	|---|---|---|
 	|   |   |   |
 	|---|---|---|
@@ -13,9 +13,9 @@ Commits N Crosses
 
 -------------
 
- Player X: ________
+ Player X: Mrs Wicher
  
- Player O: ________
+ Player O: Liam
 
 -------------
 
